@@ -1,0 +1,39 @@
+Corporations
+Corp1,Corp2,Corp3
+Corp2,Args
+Preludes
+Pre1,Pre2,Pre3,Pre4
+Pre2,CardsDrawn
+Pre4,PlacedTileLoc
+Cards
+Card1,Card2,...,Card10
+Card1,Card3,Card7,Card10
+START
+CARD,CardName,#cash(S#)(T#),Args
+EFFECT,Causer,Args
+ENDTURN
+MS,MilestoneName
+AW,AwardName,1
+ENDTURN
+SP,StandardProjectName,Args(sell patents)
+GREEN,Location
+ENDTURN
+TEMP
+ENDTURN
+ACTION,Cardname,index,Args
+PASS,ME,Steel,Titanium,Plant,Energy,Heat
+GEN
+Card1,Card2,Card3,Card4
+Card2
+Card1',Card2',Card3'
+Card3'
+Card1'',Card2''
+Card1''
+Card1'''
+Card1'''
+CardsKept
+START
+
+What are possible args:
+Card names (drawn)
+

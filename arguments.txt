@@ -1,0 +1,7 @@
+Various arguments for various cards
+
+ACTION,water import from europa,9T1,A2
+
+CARD,Space Elevator,14S4T2
+CARD,Industrial Center,2S1,E2
+CARD,Fish,9,Red
